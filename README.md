@@ -187,7 +187,7 @@ A few choices that mattered more than the model selection:
 ## Reproducing
 
 ```bash
-git clone https://github.com/<your-username>/nifty-volatility-forecasting.git
+git clone https://github.com/mayureshchaturvedi/nifty-volatility-forecasting.git
 cd nifty-volatility-forecasting
 
 python -m venv venv
